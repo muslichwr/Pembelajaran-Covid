@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.14635416666666667" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_all_countries.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_covid.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_helpline.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_myths_bust.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_quiznama.xml" value="0.25" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_quizpertanyaan.xml" value="0.1375" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_states.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_symptoms.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/activity_updates.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/fragment_corona__overview.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/fragment_prevention.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/item_country.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/item_state.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/layout/slide_item.xml" value="0.1" />
+        <entry key="..\:/PembelajaranCovid/app/src/main/res/menu/search.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

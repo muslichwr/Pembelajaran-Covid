@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mumus.pembelajarancovid">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:launchMode="singleTop"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Splash" android:theme="@style/BlueActivityTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".About"
+            android:label="About">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".About" />
+        </activity>
+        <activity
+            android:name=".Helpline"
+            android:label="Helpline">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Helpline" />
+        </activity>
+        <activity
+            android:name=".Updates"
+            android:label="Berita Terbaru">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Updates" />
+        </activity>
+        <activity
+            android:name=".MythsBust"
+            android:label="Myths Bust">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MythsBust" />
+        </activity>
+        <activity
+            android:name=".Symptoms"
+            android:label="Symptoms">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Symptoms" />
+        </activity>
+        <activity
+            android:name=".Covid"
+            android:label="Covid-19">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Covid" />
+        </activity>
+        <activity
+            android:name=".StatesActivity"
+            android:label="State of Indonesia">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".StatesActivity" />
+        </activity>
+        <activity
+            android:name=".AllCountries"
+            android:label="All Countries">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".AllCountries" />
+        </activity>
+        <activity android:name=".MainActivity">
+
+        </activity>
+
+    </application>
+
+</manifest>
